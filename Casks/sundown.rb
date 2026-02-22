@@ -1,6 +1,6 @@
 cask "sundown" do
   version "1.0.1"
-  sha256 "4c76de10d017d1a1665505746fe96ba65cb749b605e9ff7d79e88b60916801d2"
+  sha256 "0dbcf871e448b75731438e796253686d4b98baaf18a990b9aebf988b30897969"
 
   url "https://github.com/seilk/sundown/releases/download/#{version}/Sundown-#{version}.zip",
       verified: "github.com/seilk/sundown/"
